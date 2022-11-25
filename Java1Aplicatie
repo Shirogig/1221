@@ -9,7 +9,7 @@ import static com.mycompany.aplicatia1.QuickSort.printArray;
 
 /**
  *
- * @author Mihai Munteanu
+ * @author Antohi Alexandru
  */
 public class Aplicatia1 {
 
